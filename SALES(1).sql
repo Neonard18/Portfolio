@@ -2,7 +2,7 @@
 --The queries written in this sql file answers the questions below
 
 	--1. Which of the seasons (Spring, Summer, Fall and Winter) has the highest profit?
-	--2. Which Age Group contributed the most to the business in terms of profit (Note: Group the age column using: less than 25 – Youth, 25-34 – Young Adult, 35-64 – Adults, 65 and above – Seniors)?
+	--2. Which Age Group contributed the most to the business in terms of profit (Note: Group the age column using: less than 25 â€“ Youth, 25-34 â€“ Young Adult, 35-64 â€“ Adults, 65 and above â€“ Seniors)?
 	--3. How is profit performing over the years?
 	--4. Which day of the week did the company made the highest profit?
 	--5. Which gender contributed the most to the profitability of the company?
